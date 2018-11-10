@@ -10,6 +10,8 @@ DEBUG = True
 HTTP_PORT = 8888
 HTTP_ADDRESS = '0.0.0.0'
 
+TIMEZONE = 'Europe/Rome'
+
 #
 # Set logging level
 #
